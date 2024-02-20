@@ -1,0 +1,5 @@
+{
+    "nixEnvSelector.suggestion": false,
+    "nixEnvSelector.nixFile": "${workspaceFolder}/default.nix",
+    "haskell.formattingProvider": "stylish-haskell",
+}
