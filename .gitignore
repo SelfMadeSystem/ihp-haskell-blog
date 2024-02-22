@@ -26,3 +26,5 @@ IHP
 .devenv*
 devenv.local.nix
 .direnv
+
+static/app.css
